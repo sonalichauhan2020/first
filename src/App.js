@@ -17,6 +17,7 @@ function App() {
   <li>Join online React community</li>
 </ul>
 <img src={efgh} height="400" width="300"/>
+<p> git bash here .</p>
 
       </div>
   );
