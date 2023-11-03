@@ -12,7 +12,7 @@ function App() {
 <h2>How to learn react js quickly </h2>
 <ul>
   <h3>Here is some tricks</h3>
-  <li>Learn javascript first </li>
+  <li>Learn javascript first  n</li>
   <li>Take a look at React's stater guide.</li>
   <li>Join online React community</li>
 </ul>
